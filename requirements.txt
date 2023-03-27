@@ -2,7 +2,6 @@ aiofiles==23.1.0
 alembic==1.10.2
 anyio==3.6.2
 bcrypt==4.0.1
-bondpy==1.8.5
 controller_manager==0.18.4
 controller_manager_msgs==0.18.4
 cryptography==39.0.2
