@@ -1,16 +1,6 @@
 aiofiles==23.1.0
 alembic==1.10.2
 anyio==3.6.2
-bcrypt==4.0.1
-controller_manager==0.18.4
-controller_manager_msgs==0.18.4
-cryptography==39.0.2
-cv_bridge==1.13.1
-diagnostic_analysis==1.9.7
-diagnostic_common_diagnostics==1.9.7
-diagnostic_updater==1.9.7
-dynamic_reconfigure==1.6.5
-ecdsa==0.18.0
 fastapi==0.94.0
 gazebo_plugins==2.8.7
 gazebo_ros==2.8.7
